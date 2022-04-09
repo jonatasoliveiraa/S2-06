@@ -31,7 +31,8 @@ h2{
 .menu{
     display: flex;
     justify-content: center;
-    margin-top: 80px;
+    width: 700px;
+    margin: 80px 0 0 290px;
     
 }
 .menuItem{
@@ -52,7 +53,7 @@ figure{
     border-radius: 10px;
     transition: 0.3s;
     background-color: #1E1E20;
-    max-height: 158px;
+    max-height: 145px;
     
 }
 .menuItem img{
